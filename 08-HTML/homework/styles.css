@@ -1,0 +1,23 @@
+
+h1{color:red}
+h3{color:green}
+h4{color:blue}
+img{width: 400px} 
+#thirdDiv{
+    height: 500px;
+    width: 600px;
+    background-color: green;
+    padding:50px;
+    border: 10px solid blue
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px
+}
+
+<! con style le doy estilo a la pag ejemplo cambio los colores de los textos, tamaños de las imagenes >
+<! con # accedo al elemento que es un id> 
+<! si el link/imagen tiene algun parametro dentro del mismo en este caso ?imwidth=360 el del style pisa el del link/imagen>
+<! font-size cambia tamaño de las letras>
+<! margin le da un margen (tab)>
+<! border le da un bordecito 10px (tamaño) solid (tipo) blue (color)>
